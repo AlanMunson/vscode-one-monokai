@@ -17,12 +17,9 @@
     },
     {
       "name": "Comment",
-      "scope": [
-        "comment",
-        "string.comment"
-      ],
+      "scope": ["comment", "string.comment"],
       "settings": {
-        "foreground": "#5c6370",
+        "foreground": "#5b9a42",
         "fontStyle": "italic"
       }
     },
@@ -35,7 +32,8 @@
     },
     {
       "name": "js template-expression",
-      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
+      "scope":
+        "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -63,10 +61,7 @@
     },
     {
       "name": "Embeded String Begin and End",
-      "scope": [
-        "string.embedded.begin",
-        "string.embedded.end"
-      ],
+      "scope": ["string.embedded.begin", "string.embedded.end"],
       "settings": {
         "foreground": "#c678dd"
       }
@@ -87,10 +82,7 @@
     },
     {
       "name": "User-defined constant",
-      "scope": [
-        "constant.character",
-        "constant.other"
-      ],
+      "scope": ["constant.character", "constant.other"],
       "settings": {
         "foreground": "#56b6c2"
       }
@@ -104,10 +96,7 @@
     },
     {
       "name": "Variable",
-      "scope": [
-        "variable.readwrite",
-        "variable.readwrite.other.block"
-      ],
+      "scope": ["variable.readwrite", "variable.readwrite.other.block"],
       "settings": {
         "foreground": "#61afef"
       }
@@ -166,10 +155,7 @@
     },
     {
       "name": "Other variable",
-      "scope": [
-        "variable.other.property",
-        "variable.other.block"
-      ],
+      "scope": ["variable.other.property", "variable.other.block"],
       "settings": {
         "foreground": "#abb2bf"
       }
@@ -183,10 +169,7 @@
     },
     {
       "name": "Function name",
-      "scope": [
-        "entity.name.function",
-        "support.function"
-      ],
+      "scope": ["entity.name.function", "support.function"],
       "settings": {
         "foreground": "#98c379"
       }
@@ -208,10 +191,7 @@
     },
     {
       "name": "Builtin Functions",
-      "scope": [
-        "function.support.builtin",
-        "function.support.core"
-      ],
+      "scope": ["function.support.builtin", "function.support.core"],
       "settings": {
         "foreground": "#98c379"
       }
@@ -229,10 +209,7 @@
     },
     {
       "name": "Tag Class and ID",
-      "scope": [
-        "entity.name.tag.class",
-        "entity.name.tag.id"
-      ],
+      "scope": ["entity.name.tag.class", "entity.name.tag.id"],
       "settings": {
         "foreground": "#56b6c2"
       }
@@ -253,10 +230,7 @@
     },
     {
       "name": "Library class/type",
-      "scope": [
-        "support.type",
-        "support.variable"
-      ],
+      "scope": ["support.type", "support.variable"],
       "settings": {
         "foreground": "#56b6c2"
       }
@@ -318,12 +292,7 @@
     },
     {
       "name": "StyleSheet Unit",
-      "scope": [
-        "unit.css",
-        "unit.scss",
-        "unit.less",
-        "unit.sass"
-      ],
+      "scope": ["unit.css", "unit.scss", "unit.less", "unit.sass"],
       "settings": {
         "foreground": "#c678dd"
       }
@@ -379,10 +348,7 @@
     },
     {
       "name": "diff.header",
-      "scope": [
-        "meta.diff",
-        "meta.diff.header"
-      ],
+      "scope": ["meta.diff", "meta.diff.header"],
       "settings": {
         "foreground": "#75715E"
       }

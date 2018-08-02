@@ -1,23 +1,24 @@
-# One Monokai Theme
+# One Monokai Theme, Tweaked
 
-A cross between Monokai and One Dark theme
+[![Version](https://vsmarketplacebadge.apphb.com/version/alan-munson.one-monokai-tweaked.svg)](https://marketplace.visualstudio.com/items?itemName=alan-munson.one-monokai-tweaked) [![Installs](https://vsmarketplacebadge.apphb.com/installs/alan-munson.one-monokai-tweaked.svg)](https://marketplace.visualstudio.com/items?itemName=alan-munson.one-monokai-tweaked) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/alan-munson.one-monokai-tweaked.svg)](https://marketplace.visualstudio.com/items?itemName=alan-munson.one-monokai-tweaked) [![GitHub stars](https://img.shields.io/github/stars/AlanMunson/vscode-one-monokai-tweaked.svg?style=social&label=Star&maxAge=2592000)](https://github.com/AlanMunson/vscode-one-monokai-tweaked)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) [![Installs](https://vsmarketplacebadge.apphb.com/installs/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/azemoh.one-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) [![GitHub stars](https://img.shields.io/github/stars/azemoh/vscode-one-monokai.svg?style=social&label=Star&maxAge=2592000)](https://github.com/azemoh/vscode-one-monokai)
-
+A cross between Monokai and One Dark theme, with some additional styling tweaks.
+Forked from [Joshua Azemoh's One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) extension.
 
 ## Install
 
 press `ctl/command + shift + p` to launch the command palette then run
+
 ```
-ext install one-monokai
+ext install one-monokai-tweaked
 ```
 
 ## Screenshot
-Screenshot of Ruby and JavaScript
 
-![Theme Screenshot](screenshot-v0.2.0.png)
+Screenshot of JavaScript / React and CSS
 
-If you like this theme checkout [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)
+![Theme Screenshot](screenshot-v1.0.1.png)
 
 ## Change log
-You can take a look at the change log [here](https://github.com/azemoh/vscode-one-monokai/blob/master/CHANGELOG.md)
+
+You can take a look at the change log [here](https://github.com/AlanMunson/vscode-one-monokai-tweaked/blob/master/CHANGELOG.md)
