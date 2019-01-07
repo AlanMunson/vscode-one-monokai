@@ -32,8 +32,7 @@
     },
     {
       "name": "js template-expression",
-      "scope":
-        "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
+      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -518,7 +517,7 @@
     "statusBarItem.hoverBackground": "#2c313a",
     "statusBar.noFolderBackground": "#21252B",
     "statusBar.debuggingBackground": "#21252B",
-    "tab.activeBackground": "#2c313a",
+    "tab.activeBackground": "#383E4A",
     "tab.border": "#181A1F",
     "tab.inactiveBackground": "#21252B",
     "titleBar.activeBackground": "#282c34",

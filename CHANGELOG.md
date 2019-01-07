@@ -1,6 +1,10 @@
 # Changelog
 
-All notable changes to the "one-monokai-tweaked" extension will be documented in this file.
+All notable changes to the ["one-monokai-tweaked"](https://github.com/AlanMunson/vscode-one-monokai-tweaked) extension will be documented in this file.
+
+### v1.0.3
+
+- Merge changes from v0.3.6 of the original extension
 
 ### v1.0.2
 
