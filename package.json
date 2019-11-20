@@ -2,7 +2,7 @@
   "name": "one-monokai-tweaked",
   "displayName": "One Monokai Theme, Tweaked",
   "description": "A cross between Monokai and One Dark theme, with some additional tweaks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "alanmunson",
   "engines": {
     "vscode": "^1.13.0"
