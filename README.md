@@ -17,7 +17,7 @@ ext install one-monokai-tweaked
 
 Screenshot of JavaScript / React and CSS
 
-![Theme Screenshot](screenshot-v1.0.1.png)
+![Theme Screenshot](screenshot-v1.0.4.png)
 
 ## Change log
 
