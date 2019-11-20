@@ -35,5 +35,9 @@
     "Monokai"
   ],
   "author": "Alan Munson <alan.munson@gmail.com> (https://alan-munson.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  }
 }
